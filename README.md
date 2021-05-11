@@ -2,4 +2,4 @@
 
 ## Feel free to see around! :coffee:
 
-![My kind of setup]()
+![My kind of setup](/github.jpg)
