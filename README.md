@@ -1,4 +1,4 @@
-`## Hello there! I'm Emanuel
+` <h1>Hello there! I'm Emanuel</h1>
 ## Feel free to see around! :coffee:
 
 ![My kind of setup](/github.jpg)
