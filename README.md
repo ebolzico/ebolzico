@@ -1,4 +1,4 @@
-## Hello there! I'm Emanuel
+`## Hello there! I'm Emanuel
 ## Feel free to see around! :coffee:
 
 ![My kind of setup](/github.jpg)
@@ -15,4 +15,4 @@
 💥 ***My portfolio:*** https://portfolio-bice-sigma-53.vercel.app/index.html
 
 💪  ***About myself:***
-`Fullstack developer with strong feelings about investigating and implementing new technologies. Bilingual. Experience with React, Redux, CSS, HTML, Node, Express, Postgres, Sequelize, Mercadopago.`
+Fullstack developer with strong feelings about investigating and implementing new technologies. Bilingual. Experience with React, Redux, CSS, HTML, Node, Express, Postgres, Sequelize, Mercadopago.`
