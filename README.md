@@ -22,7 +22,7 @@ Feel free to see around.include(🍵)
 💪About myself= {
 Skills: ['Fullstack developer with strong feelings about investigating and implementing new technologies', 
 'Bilingual'],
-Experience: [React(), Redux(), CSS(), HTML(), Node(), Express(), Postgres(), Sequelize(), Mercadopago(), Git()]
+Experience: [React(), Redux(), Node(), Express(), Postgres()]
 }
 ```
 
